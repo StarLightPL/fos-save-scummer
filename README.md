@@ -2,17 +2,18 @@
 From Other Suns simple save scummer .bat
 
 # description
-From Other Suns is a roguelike VR Faster Than Light clone. Unfortunately game was released unfinished and abandoned, hence is missing essential balance passes. Due to that there's a serious difficulty spike around 50% progress into the game and if you're unlucky, you can die pretty easily. I made a very simple save scummer which will allow you to backup your save 
+From Other Suns is a roguelike VR Faster Than Light clone. Unfortunately game was released unfinished and abandoned, hence is missing essential balance passes. Due to that there's a serious difficulty spike around 50% progress into the game and if you're unlucky, you can die pretty easily. I made a very simple save scummer which will allow you to backup and restore your save, as well as have separate "slots" for single- and multiplayer play.
 
 # "installation"
 
-1. If you have any saves you care about, backup them first.
-2. Put the scum_saves.bat inside your %appdata% directory: `%AppData%\..\Local\FoS\Saved`
-3. Run the .bat file
-4. Choose "Switch saves to multiplayer" - this will create directories and backup your current saves as singleplayer saves
-5. Choose "Switch saves to singleplayer" - as above, for multiplayer
+If you have any saves you care about, backup them first.
 
-Don't skip steps 4-5 on first run, otherwise it won't work.
+1. Put the scum_saves.bat inside your %appdata% directory: `%AppData%\..\Local\FoS\Saved`
+2. Run the .bat file
+3. Choose "Switch saves to multiplayer" - this will create directories and backup your current saves as singleplayer saves
+4. Choose "Switch saves to singleplayer" - as above, for multiplayer
+
+Please don't skip these steps on first run, otherwise it may not work - these commands create the directory structure needed.
 
 You're ready to save scum :-)
 
