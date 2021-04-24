@@ -6,11 +6,13 @@ From Other Suns is a roguelike VR Faster Than Light clone. Unfortunately game wa
 
 # "installation"
 
-1. Backup your save
+1. If you have any saves you care about, backup them first.
 2. Put the scum_saves.bat inside your %appdata% directory: `%AppData%\..\Local\FoS\Saved`
 3. Run the .bat file
 4. Choose "Switch saves to multiplayer" - this will create directories and backup your current saves as singleplayer saves
 5. Choose "Switch saves to singleplayer" - as above, for multiplayer
+
+Don't skip steps 4-5 on first run, otherwise it won't work.
 
 You're ready to save scum :-)
 
