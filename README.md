@@ -15,4 +15,11 @@ From Other Suns is a roguelike VR Faster Than Light clone. Unfortunately game wa
 You're ready to save scum :-)
 
 # usage
-Game saves your items upon players death, hyperspace jump or mission end. You should put all items on the rack or throw it on the floor before saving. It's best to do that after a successful mission and before the jump. That way you can ensure that your weapons will actually be saved. If you're playing multiplayer, then your teammates absolutely must 
+Game saves your items upon game exit, players death, hyperspace jump or mission end. You should put all items on the rack or throw it on the floor before saving. It's best to drop them after a successful mission and before the jump. That way you can ensure that your weapons will actually be saved. If you're playing multiplayer, then your teammates absolutely must drop their gear, because other players gear seems not to be saved with your save.
+
+So, to recap:
+1. After a successful mission, drop all gear on the racks or on the floor (everyone).
+2. Jump
+3. Save game using the scummer option 1.
+
+Optionally instead of jumping, you can exit the session, but that way it's more cumbersome.
